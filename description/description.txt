@@ -1,0 +1,11 @@
+While note on, generates repeating notes like bouncing table-tennis ball with dynamic display animation.
+Simulates bounces from the levitation-ish on the Moon to fierce conditions of 60G.
+And available in polyphonic!
+
+Check URL for more descriptions.
+
+Changes in version 1.04 (March 23, 2020)
+- Changed HOLD and DISP button to default display mode from label display mode.
+This might solve the display problem in Max 8.
+- Reduced CPU usage when parameters are automated by defer automation output option.
+- Refined the animation logic so that draws accurately when changing parameters and slightly reduced overall CPU usage.
