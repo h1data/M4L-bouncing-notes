@@ -1,16 +1,19 @@
-While note on, generates repeating notes like bouncing table-tennis ball with dynamic display animation.
+*** This is not an official device. If you were looking for that, ***
+*** please visit https://www.ableton.com/packs/ ***
+
+While note on, generates repeating notes like bouncing table-tennis ball
+with dynamic display animation.
 Simulates bounces from the levitation-ish on the Moon to fierce conditions of 60G.
-And available in polyphonic AND inverse mode!
+Available in polyphonic and inverse mode!
 
 Check URL for more descriptions.
 
+Changes in version 1.2.0 (April 8, 2022)
+- Refined graphic rendering method.
+- Fixed an issue when internal velocity may go far below 1 and it needs much time to recover velocity after the inverse mode was enabled.
+
 Changes in version 1.1.0 (February 23, 2021)
-- Added the inverted bouncing feature at last! It is recommended to automate Inv. button when it is toggled repeatedly.
-- Added Velocity parameter to adjust the initial velocity (of balls).
-- These changes do not affect Live sets which use the device of previous versions.
+- Added the inverted bouncing feature velocity parameter.
 
 Changes in version 1.04 (March 23, 2020)
 - Changed HOLD and DISP button to default display mode from label display mode.
-This might solve the display problem in Max 8.
-- Reduced CPU usage when parameters are automated by defer automation output option.
-- Refined the animation logic so that draws accurately when changing parameters and slightly reduced overall CPU usage.
