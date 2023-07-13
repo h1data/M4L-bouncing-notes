@@ -30,3 +30,6 @@ When disabled, bounces end at duration time of bounces reached 'Minimum' time.
 - `DISP` Enable or disable the dynamic display animation.
 - `Inverse` When enabled, the bounces are inverted; the duration of notes increases.
 TIP: When inverse mode, you can start bounces from shorter duration by setting 'Velocity' to a small number (2-3).
+
+## Known Issues
+see [Issues](https://github.com/h1data/M4L-bouncing-notes/issues?q=)
