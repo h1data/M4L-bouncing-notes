@@ -10,3 +10,6 @@ Check URL for more descriptions.
 
 Changes in version 1.2.1 (August 27, 2023)
 - Fixed an issue when no parameter was shown in Push. In this change, lower versions of Max may show a warning but the device works.
+
+Changes in version 1.2.2 (August 31, 2023)
+- Changed the bank name in Push to 'Main', following built-in devices.
