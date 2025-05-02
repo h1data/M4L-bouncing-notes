@@ -16,7 +16,7 @@ Available in polyphonic and inverse mode!
 https://maxforlive.com/library/device/6075/bouncing-notes
 
 ## Requirements
-- Ableton Live 9.7.7 / Cycling '74 Max 6.1.7 or later
+- Ableton Live 9.7.7 / Cycling '74 Max 7.3.5 or later
 
 ## Parameters
 - `Gravity` Represents the gravity; how fast the velocity of balls decreases.
