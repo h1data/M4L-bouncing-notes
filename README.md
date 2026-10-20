@@ -32,4 +32,4 @@ When disabled, bounces end at duration time of bounces reached 'Minimum' time.
 TIP: When inverse mode, you can start bounces from shorter duration by setting 'Velocity' to a small number (2-3).
 
 ## Known Issues
-see [Issues](https://github.com/h1data/M4L-bouncing-notes/issues?q=)
+see [Issues](https://github.com/h1data/M4L-bouncing-notes/issues?q=is%3Aissue)
